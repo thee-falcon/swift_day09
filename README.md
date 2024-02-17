@@ -1,5 +1,5 @@
 # SWIFT
 
-![Swift Logo](https://brandslogos.com/wp-content/uploads/thumbs/swift-logo-vector.svg)
+![Swift Logo](https://w7.pngwing.com/pngs/830/800/png-transparent-apple-bird-code-ios-logo-swift-logos-icon-thumbnail.png)
 
 ![Page 1](day09.png)
