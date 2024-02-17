@@ -1,5 +1,5 @@
 # SWIFT
 
-![Swift Logo](https://w7.pngwing.com/pngs/830/800/png-transparent-apple-bird-code-ios-logo-swift-logos-icon-thumbnail.png)
+![Swift Logo](https://cdn-icons-png.flaticon.com/256/919/919833.png)
 
 ![Page 1](day09.png)
